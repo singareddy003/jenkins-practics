@@ -26,7 +26,7 @@ post {
             echo 'I will always say Hello again!'
             deleteDir()
         }
-        sucess {
+        success {
             echo 'Hello scucess'
         }
         failure {
